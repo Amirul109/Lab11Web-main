@@ -1,11 +1,10 @@
 # Tugas Pemrograman Web 2
-## Profil
-            |
-| --------------- | ---------------------------- |
-| **Nama**        | Amirul Mu'minin  |
-| **NIM**         | 312110109                    |
-| **Kelas**       | TI.21.C2                     |
-| **Mata Kuliah** | Pemrograman Web 2            |
+### Profil
+
+Nama        : Amirul Mu'minin  
+NIM         : 312110109                    
+Kelas       : TI.21.C2                     
+Mata Kuliah : Pemrograman Web 2           
 
 # Langkah-langkah Praktikum
 ## Upload Gambar pada Artikel
